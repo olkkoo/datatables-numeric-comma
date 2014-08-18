@@ -2,8 +2,8 @@
  * This DataTables plugin sorts a numeric column with price link.
  * Cells can include a link and a EUR sign.
  *
- *  @name Date (dd.mm.YYYY)
- *  @summary Sort date or date range in the format `dd.mm.YYYY `.
+ *  @name numeric-comma
+ *  @summary Sort columns with numeric value using comma as decimal separator.
  *  @author [Pekka Huhtala]
  *
  *  @example
